@@ -47,3 +47,7 @@ This page gives you on overview of the what is happening in the job market at a 
 
 This is the micro level or deep dive page. Where you can drill through from the main dashboard to get the micro details for a specific job title, including salary ranges,
 work from home stats, top hiring platforms and global map of job locations.
+
+## Conclusion
+
+This Dashboard shows how Power BI can transform raw data into interactive actionable insights and powerfull tool for career analysis. It allows users to drill, filter, slice through the data to make informed career path decisions.  
